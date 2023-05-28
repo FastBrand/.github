@@ -18,7 +18,7 @@
 
 ## 📃 판넬
 
-<img src="../images/1918_판넬.jpeg" alt="이미지" style="zoom: 50%;" />
+<img src="https://github.com/FastBrand/.github/assets/87010483/39cca62f-f4be-42ca-9684-e1b7e15dd50f" alt="이미지" style="zoom: 50%;" />
 
   <br>
 
