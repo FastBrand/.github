@@ -12,7 +12,13 @@
 
 | [김용우](https://github.com/blueberrycoffee) | [김현진](https://github.com/galaxyIjinny) | [이지원](https://github.com/ljw43) | [정민우](https://github.com/mwjng) |
 | :------------------------------------------: | :---------------------------------------: | :--------------------------------: | :--------------------------------: |
-|                                              |                                           |                                    |                                    |
+|            981202tiger@gmail.com             |           yahyunjin5@gmail.com            |       dlwldnjs6729@naver.com       |         wmw04087@gmail.com         |
+
+<br>
+
+## 📃 판넬
+
+![1918_판넬](C:\Users\user\Desktop\1918_판넬.jpeg)
 
   <br>
 
