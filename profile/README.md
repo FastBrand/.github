@@ -18,7 +18,7 @@
 
 ## 📃 판넬
 
-![](..\images\1918_판넬.jpeg)
+<img src="../images/1918_판넬.jpeg" alt="이미지" style="zoom: 50%;" />
 
   <br>
 
